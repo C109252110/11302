@@ -1,6 +1,6 @@
 # 11302
 智慧城市導論
-
+<img src="qrcode.png" width="100" Height="100" />
 
 
 | 項次 | 項目 | 內容 |
