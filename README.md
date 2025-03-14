@@ -1,3 +1,11 @@
 # 11302
 智慧城市導論
-![image](https://github.com/user-attachments/assets/87de8e04-09a0-4da7-80ba-b6eef7978cbd)
+
+
+
+| 項次 | 項目 | 內容 |
+|----:|------|------|
+|1 | 圖片 | <img src="people.jpg" width="100" Height="100" />|
+|2 | 姓名 | 蔣國富 |
+|3 | 職稱 | 學生| 
+|3 | 任職公司 | 高科大| 
