@@ -9,4 +9,5 @@
 |2 | 姓名 | 蔣國富 |
 |3 | 職稱 | 學生| 
 |3 | 任職公司 | 高科大| 
-https://www.youtube.com/watch?v=Ja8cCeVuWCM&pp=ygUM5pm65oWn5Z-O5biC
+
+<img src="qrcode.png" width="100" Height="100" />https://www.youtube.com/watch?v=Ja8cCeVuWCM&pp=ygUM5pm65oWn5Z-O5biC
