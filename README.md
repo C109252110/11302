@@ -10,6 +10,11 @@
 |3 | 職稱 | 學生| 
 |3 | 任職公司 | 高科大| 
 
-<img src="qrcode.png" width="100" Height="100" />https://www.youtube.com/watch?v=Ja8cCeVuWCM&pp=ygUM5pm65oWn5Z-O5biC
 
-|1 | 影片 | <img src="CAR.PNG" width="200" Height="100" />|https://www.youtube.com/watch?v=Ja8cCeVuWCM&pp=ygUM5pm65oWn5Z-O5biC
+
+<a href="https://www.youtube.com/watch?v=Ja8cCeVuWCM" target="_blank">智慧城市</a><br>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Ja8cCeVuWCM" target="_blank"><img src="http://img.youtube.com/vi/Ja8cCeVuWCM/0.jpg" 
+alt="倫敦智慧城市" width="400" height="250" border="10" /></a>
+<br>影片取自 youtube
+
+
