@@ -11,8 +11,8 @@
 |3 | 任職公司 | 高科大| 
 
 
-<a href="https://www.youtube.com/watch?v=ygUDYm13=" target="_blank">汽車影片</a><br>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=ygUDYm13" target="_blank"><img src="http://img.youtube.com/vi/ygUDYm13/0.jpg" 
+<a href="https://www.youtube.com/watch?v=qcu8KteKiRc" target="_blank">汽車影片</a><br>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=qcu8KteKiRc" target="_blank"><img src="http://img.youtube.com/vi/qcu8KteKiRc/0.jpg" 
 alt="汽車" width="400" height="250" border="10" /></a>
 <br>影片取自 youtube
 
