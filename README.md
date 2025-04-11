@@ -11,6 +11,12 @@
 |3 | 任職公司 | 高科大| 
 
 
+<a href="https://www.youtube.com/watch?vqcu8KteKiRc&pp=ygUDYm13=" target="_blank">汽車影片</a><br>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=qcu8KteKiRc&pp=ygUDYm13" target="_blank"><img src="http://img.youtube.com/vi/qcu8KteKiRc&pp=ygUDYm13/0.jpg" 
+alt="倫敦智慧城市" width="400" height="250" border="10" /></a>
+<br>影片取自 youtube
+
+
 
 <a href="https://www.youtube.com/watch?v=Ja8cCeVuWCM" target="_blank">智慧城市</a><br>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Ja8cCeVuWCM" target="_blank"><img src="http://img.youtube.com/vi/Ja8cCeVuWCM/0.jpg" 
