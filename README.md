@@ -25,6 +25,9 @@ alt="倫敦智慧城市" width="400" height="250" border="10" /></a>
 
 
 
+
+
+
 |學號 | 姓名 | 工作分配 |% |
 |----:|------|------|------|
 |C109252110| 蔣國富 | 製作報告 |60%|
@@ -118,8 +121,4 @@ AMI資料應用主要涵蓋「資訊服務」、「需量反應」、「用戶�
  
  
  
- <a href="https://www.youtube.com/watch?v=H8vjakntBLk" target="_blank">智慧電表</a><br>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=H8vjakntBLk" target="_blank"><img src="http://img.youtube.com/vi/H8vjakntBLk/0.jpg" 
-alt="倫敦智慧城市" width="400" height="250" border="10" /></a>
-<br>影片取自 youtube
 
